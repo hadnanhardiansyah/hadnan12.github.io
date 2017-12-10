@@ -4,11 +4,11 @@ bio:                'Perkenalkan nama saya Zulfan Harits Alfarisy, Saya seorang 
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.PNG'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://zulfanharitsa.github.io/
 
 # Jekyll
 permalink:          /:title/
