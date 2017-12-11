@@ -1,6 +1,6 @@
 # Site
-title:              Zulfan Harits Alfarisyi
-bio:                'Perkenalkan nama saya Zulfan Harits Alfarisy, Saya seorang Mahasiswa di Universitas Islam Negeri Sultan Syarif Kasim, Riau. Fakultas Sains Dan Teknologi , Sistem Informasi.'
+title:              Hadnan Hardiayansyah
+bio:                'Perkenalkan nama saya Hadnan Hardiayansyah, Saya seorang Mahasiswa di Universitas Islam Negeri Sultan Syarif Kasim, Riau. Fakultas Sains Dan Teknologi , Sistem Informasi.'
 description:        "Mahasiswa di Universitas Islam Negeri Sultan Syarif Kasim, Riau. Fakultas Sains Dan Teknologi , Sistem Informasi."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.PNG'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://zulfanharitsa.github.io/
+url:                https://hadnanhardiansyah.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -38,23 +38,23 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            ZulfanHaritsA
-facebook:           ZulfanHaritsA
-github-url:         zulfanharitsa
+twitter:            Hadnan Hardiayansyah
+facebook:           Hadnan Hardiayansyah
+github-url:         Hadnan Hardiayansyah
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          ZulfanHaritsAl
+#linkedin:          Hadnan Hardiayansyah
 #xing:              username
-instagram:          zulfanharitsa
+instagram:          Hadnan Hardiayansyah
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              zulfanharitsa
+steam:              Hadnan Hardiayansyah
 #dribbble:          username
-#youtube:           ZulfanHaritsAlfarisy
+#youtube:           Hadnan Hardiayansyah
 #youtube-channel:   channel
-#soundcloud:        ZulfanHaritsAlfarisy
+#soundcloud:        Hadnan Hardiayansyah
 #weibo:             username
 #flickr:            username
 #codepen:           username
